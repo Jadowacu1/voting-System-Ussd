@@ -1,11 +1,6 @@
-
-
-
-
-````markdown
 # USSD Voting System
 
-This is a Student Union Voting System that allows registered students to vote for their representatives (President, Vice President, Secretary, Treasurer) using a USSD interface. The system is built using PHP and MySQL, and is designed to run on any platform supporting HTTP and USSD gateway integration (e.g., Africa's Talking).
+This is a **Student Union Voting System** that allows registered students to vote for their representatives (President, Vice President, Secretary, Treasurer) using a **USSD interface**. The system is built using **PHP** and **MySQL**, and is designed to run on any platform supporting HTTP and USSD gateway integration (e.g., Africa's Talking).
 
 ## 🧩 Features
 
@@ -25,7 +20,7 @@ ussd_voting/
 ├── db.php                # Database connection
 ├── .env                  # (optional) for database credentials
 ├── README.md             # Project documentation
-````
+ ```
 
 ## 🧪 Technologies Used
 
@@ -39,7 +34,7 @@ ussd_voting/
 
 1. **Clone the repository**
 
-   ```bash
+   ``` 
    git clone git@github.com:Jadowacu1/voting-System-Ussd.git
    cd voting-System-Ussd
    ```
@@ -91,7 +86,7 @@ ussd_voting/
    $conn = new mysqli('localhost', 'username', 'password', 'your_database');
    ```
 
-## 🗳️ How It Works
+##  How It Works
 
 * User dials a USSD code (e.g., `*123#`)
 * Prompted to register (if new) or continue
@@ -106,7 +101,5 @@ ussd_voting/
 * GitHub: [github.com/Jadowacu1](https://github.com/Jadowacu1)
 
 
----
 
-Would you like me to generate this file and push it to your repository directly?
 
