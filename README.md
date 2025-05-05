@@ -1,11 +1,11 @@
-Here's a sample `README.md` file you can use for your **voting-System-Ussd** project. It explains what the project does, how it works, and how to set it up:
 
----
+
+
 
 ````markdown
 # USSD Voting System
 
-This is a **Student Union Voting System** that allows registered students to vote for their representatives (President, Vice President, Secretary, Treasurer) using a **USSD interface**. The system is built using **PHP** and **MySQL**, and is designed to run on any platform supporting HTTP and USSD gateway integration (e.g., Africa's Talking).
+This is a Student Union Voting System that allows registered students to vote for their representatives (President, Vice President, Secretary, Treasurer) using a USSD interface. The system is built using PHP and MySQL, and is designed to run on any platform supporting HTTP and USSD gateway integration (e.g., Africa's Talking).
 
 ## 🧩 Features
 
