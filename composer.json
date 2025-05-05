@@ -1,0 +1,8 @@
+{
+    "name": "jadowacu/ussd-voting",
+    "description": "Student Union Voting System via USSD",
+    "require": {
+      "php": "^8.0"
+    }
+  }
+  
